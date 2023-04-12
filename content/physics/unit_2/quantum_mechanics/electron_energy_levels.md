@@ -3,13 +3,15 @@ myMenu: "/physics"
 title: Energy levels of electrons
 ---
 
+# Energy levels of electrons
+
 ## Concept of energy levels
 
 Electrons in an atom occupy energy levels. The least energetic electrons are closest to the nucleus and are the hardest to extract from the atom. The opposite is true for the more energetic electrons.
 
 ## Excitation
 
-When an electron is at its least energy level, we say that it is in its ground state. When we provide sufficient energy, the electron will move to a higher energy level. We now say that 'excitation' ha occurred.
+When an electron is at its least energy level, we say that it is in its ground state. When we provide sufficient energy, the electron will move to a higher energy level. We now say that 'excitation' has occurred.
 
 ![feafae](../electron_energy_levels_1.png)
 

@@ -3,6 +3,7 @@ menu:
   after:
     name: chemistry
     weight: 1
+myMenu: "/chemistry"
 title: Chemistry
 ---
 
