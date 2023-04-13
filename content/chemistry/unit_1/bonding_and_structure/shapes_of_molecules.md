@@ -13,6 +13,14 @@ The arrangement of atoms in a molecule in 3-dimensional space is known as the sh
 
 Due to mutual repulsion among the pairs of electrons around the central atom, the atoms in the molecule/ion arrange themselves in such a way that the repulsion is minimized and the separation is maximized.
 
+## Order in repulsion
+
+For some reason, repulsion between every pair of electrons is not the same as repulsion between every other pair. From most repulsion to least:
+
+1. Lone pair-lone pair repulsion (exists in $\ce{H2O}$ but not in $\ce{NH3}$ because $\ce{NH3}$ doesn't have 2 lone pairs)
+2. Lone pair-bond pair repulsion (exists in both $\ce{H2O}$ and $\ce{NH3}$ but not in $\ce{CH4}$)
+3. Bond pair-bond pair repulsion
+
 ## Classifications
 
 | # of electron pairs around the atom | arrangement of electron pairs |
@@ -53,7 +61,7 @@ Shape of molecule $\neq$ arrangement of electron pairs iff. lone pair exists
 
 The bond angle is $180 \degree$.
 {{</ tab >}}
-{{< tab "$\ce{BCl2}$" >}}
+{{< tab "$\ce{BCl3}$" >}}
 ### Boron Chloride, $\ce{BCl3}$
 
 ![BCl3 diagram](../bcl3_lewis_diagram.png)
@@ -93,6 +101,20 @@ Well, it looks bent. Maybe that's the derivation apparently if you make **2** bo
 
 Bond angle decreases by $2.5 \degree$ again (this is a trend) to $104.5 \degree$.
 {{</ tab >}}
+{{< tab "$\ce{PCl5}$" >}}
+### Phospohorus (V) Chloride, $\ce{PCl5}$
+
+![pcl5 diagram](../pcl5_lewis_diagram.png)
+
+Shape is trigonal pyramidal (from the table). Angle between the single lines is $90 \degree$ and angle between the solid and dashed line is $120 \degree$.
+{{</ tab >}}
+{{< tab "$\ce{SF6}$" >}}
+### Sulfur Hexafluoride, $\ce{SF6}$
+
+![sf6 diagram](../sf6_lewis_diagram.png)
+
+Shape is octahedral. All bond angles are $90 \degree$ except the opposite bonds which have $180 \degree$ between them.
+{{</ tab >}}
 {{</ tabs >}}
 
 ## Questions
@@ -102,6 +124,18 @@ Bond angle decreases by $2.5 \degree$ again (this is a trend) to $104.5 \degree$
 ![PCl3 diagram](../pcl3_dot_cross_diagram.png)
 
 $\ce{PCl3}$ has a trigonal pyramidal shape. The central atom Phosphorus has 3 bonded electron pairs and 1 lone pair. There is repulsion between these electron pairs and they arrange themselves in this way so that the repulsion is minimized and separation is maximized.
+{{</ expand >}}
+
+{{< expand "Explain why the bond angle in ammonia is less than that in Boron trichloride." "..." >}}
+
+There are 3 bonded pairs of electrons around the boron in $\ce{BCl3}$ and 3 bonded pairs and 1 lone pair around the nitrogen in $\ce{NH3}$. So the nitrogen in ammonia has to accomodate more electron pairs around it so bond angle is less.
+
+{{</ expand >}}
+
+{{< expand "Explain why the bond angle in ammonia is less than that in methane" "..." >}}
+
+There are 4 bonded pairs around carbon in methane and 3 bonded pairs and 1 lone pair around nitrogen in ammonia. As lone pair-bond pair repulsion is greater than the repulsion between bonded pairs, the bonded pair of electrons in ammonia are closer pushed together. So the bond angle in ammonia is reduced to $107 \degree$.
+
 {{</ expand >}}
 
 ## References
